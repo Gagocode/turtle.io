@@ -1,8 +1,5 @@
 # turtle.io
-This is just a small test run on what I can do with the skills I currently have right now.
-However, I will stop any progress/updates on this, I'm planning to redo all of this from scratch.
-I'll only try and fix some bugged UI and such.
-
-# free use
-You are free to use any of my code, but please credit me if you were to use/utilize this in your own project. 
-Thank you.
+This is just a small website thing that I made in my free time, and for now I'm stopping adding new additions and updates and redoing this
+from scratch. I'll also be fixing some small UI bugs and other text here and there, but that's about it. You are free to use any of my code here, but please do
+Please credit me if you were to use this in your own project.
+Thank you!
